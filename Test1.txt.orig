@@ -1,0 +1,10 @@
+Oto plik Test1
+Linia2
+Linia3
+Linia4
+<<<<<<< HEAD
+Linia5
+=======
+TestBranch1
+TestBranch1Linia2
+>>>>>>> TestBranch1
