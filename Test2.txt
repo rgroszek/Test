@@ -2,3 +2,5 @@ Oto plik Test2
 Linia2
 Linia3
 Linia4
+TestBranch1
+TestBranch1Linia2
